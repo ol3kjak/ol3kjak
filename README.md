@@ -38,4 +38,4 @@
 </details>
 
 <!-- [website]:  -->
-[linkedin]: www.linkedin.com/in/aleksander-jakubowski
+[linkedin]: https://linkedin.com/in/aleksander-jakubowski
